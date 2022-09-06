@@ -1,0 +1,15 @@
+Que es el proyecto?
+-Es una web en donde vamos a compartir redes sociales y enlaces
+
+
+Se utiliza la iniciacion de git y de npm para istalar webpack de la siguiente manera:
+
+$- npm install webpack webpack-cli
+
+
+
+
+
+
+
+

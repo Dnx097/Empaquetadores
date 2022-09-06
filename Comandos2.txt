@@ -1,0 +1,11 @@
+Vamos a agregar algunos plugins para trabajar con soportes para babel & babel loader, html webpack plugin y copy webpack plugin
+
+Comando = npm i html-webpack-plugin copy-webpack-plugin @babel/core babel-loader -D
+
+se arma el archivo webpack.config.js
+
+en el se incluyen los datos que necesita webpack para subsistir
+
+NOTA: Investigar que son las expresiones regulares en javascript
+
+
